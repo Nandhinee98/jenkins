@@ -1,0 +1,14 @@
+Node { 
+
+Stage(‘Build’){ 
+
+} 
+
+Stage(‘Test'){ 
+
+} 
+
+Stage(‘Deploy'){ 
+
+} 
+}
